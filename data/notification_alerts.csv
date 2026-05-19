@@ -1,0 +1,21 @@
+location,rainfall_mm,drought_level,humidity_percent,soil_moisture,crop_type,alert_type,severity,message,action_required
+Mumbai,5,Low,45,55,Rice,Drought,Low,Rainfall below threshold,Monitor water levels
+Mumbai,15,Very Low,35,35,Wheat,Severe Drought,High,Critical water shortage,Immediate irrigation required
+Moscow,2,Extreme,25,15,Maize,Extreme Drought,Critical,Water crisis alert,Emergency irrigation
+Delhi,0,Extreme,30,20,Cotton,Extreme Drought,Critical,Complete water deficit,Immediate action required
+Bangalore,25,Moderate,60,70,Sugarcane,Excess Rain,Medium,Excessive rainfall,Drain waterlogged fields
+Cairo,1,Extreme,20,10,Wheat,Extreme Drought,Critical,Severe water scarcity,Use drip irrigation
+Beijing,3,Very Low,40,35,Maize,Drought,High,Prolonged dry period,Increase irrigation frequency
+Bangkok,45,Moderate,75,80,Rice,Heavy Rain,Low,Waterlogging risk,Improve drainage system
+Toronto,10,Low,55,65,Wheat,Normal,Low,Adequate conditions,Standard monitoring
+Nairobi,2,Extreme,28,18,Maize,Extreme Drought,Critical,Drought emergency,Emergency water supply
+Amsterdam,20,Low,70,75,Sugarcane,Normal,Low,Conditions favorable,Continue normal practices
+Mumbai,8,Very Low,40,42,Sugarcane,Drought,High,Water deficit developing,Prepare irrigation
+Delhi,18,Low,50,60,Rice,Normal,Low,Adequate moisture,Continue monitoring
+Cairo,0,Extreme,18,8,Cotton,Extreme Drought,Critical,Severe stress condition,Activate contingency
+Bangkok,60,High,80,85,Rice,Flood Risk,High,Excessive water accumulation,Deploy pumps for drainage
+Sydney,12,Low,65,70,Wheat,Normal,Low,Optimal conditions,Maintain current practices
+Jakarta,50,Moderate,78,82,Rice,Heavy Rain,Medium,Overflow possible,Monitor water levels closely
+Phoenix,1,Extreme,15,12,Maize,Extreme Drought,Critical,Desert condition,Use minimum water protocols
+Istanbul,5,Very Low,48,45,Wheat,Drought,Medium,Water stress visible,Supplement with irrigation
+Kolkata,35,Low,75,78,Rice,Heavy Rain,Low,Manageable rainfall,Standard field monitoring
